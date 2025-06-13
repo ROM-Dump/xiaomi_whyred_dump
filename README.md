@@ -1,0 +1,20 @@
+## whyred-user 9 PKQ1.180904.001 V12.0.3.0.PEICNXM release-keys
+- Manufacturer: xiaomi
+- Platform: sdm660
+- Codename: whyred
+- Brand: xiaomi
+- Flavor: whyred-user
+- Release Version: 9
+- Kernel Version: 4.4.153
+- Id: PKQ1.180904.001
+- Incremental: V12.0.3.0.PEICNXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: zh-CN
+- Screen Density: 440
+- Fingerprint: xiaomi/whyred/whyred:9/PKQ1.180904.001/V12.0.3.0.PEICNXM:user/release-keys
+- OTA version: 
+- Branch: whyred-user-9-PKQ1.180904.001-V12.0.3.0.PEICNXM-release-keys
+- Repo: xiaomi_whyred_dump
